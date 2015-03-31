@@ -1,0 +1,6 @@
+c:\users\aurash\documents\visual studio 2013\Projects\ThumbnailImage\ThumbnailImage\bin\Debug\ThumbnailImage.exe.config
+c:\users\aurash\documents\visual studio 2013\Projects\ThumbnailImage\ThumbnailImage\bin\Debug\ThumbnailImage.exe
+c:\users\aurash\documents\visual studio 2013\Projects\ThumbnailImage\ThumbnailImage\bin\Debug\ThumbnailImage.pdb
+c:\users\aurash\documents\visual studio 2013\Projects\ThumbnailImage\ThumbnailImage\obj\Debug\ThumbnailImage.csprojResolveAssemblyReference.cache
+c:\users\aurash\documents\visual studio 2013\Projects\ThumbnailImage\ThumbnailImage\obj\Debug\ThumbnailImage.exe
+c:\users\aurash\documents\visual studio 2013\Projects\ThumbnailImage\ThumbnailImage\obj\Debug\ThumbnailImage.pdb
