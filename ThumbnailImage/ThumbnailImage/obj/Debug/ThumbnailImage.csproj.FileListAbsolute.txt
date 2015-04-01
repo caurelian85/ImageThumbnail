@@ -4,3 +4,5 @@ c:\users\aurash\documents\visual studio 2013\Projects\ThumbnailImage\ThumbnailIm
 c:\users\aurash\documents\visual studio 2013\Projects\ThumbnailImage\ThumbnailImage\obj\Debug\ThumbnailImage.csprojResolveAssemblyReference.cache
 c:\users\aurash\documents\visual studio 2013\Projects\ThumbnailImage\ThumbnailImage\obj\Debug\ThumbnailImage.exe
 c:\users\aurash\documents\visual studio 2013\Projects\ThumbnailImage\ThumbnailImage\obj\Debug\ThumbnailImage.pdb
+C:\Users\AurasH\Documents\Visual Studio 2013\Projects\ThumbnailImage\ThumbnailImage\bin\Debug\Utilities.dll
+C:\Users\AurasH\Documents\Visual Studio 2013\Projects\ThumbnailImage\ThumbnailImage\bin\Debug\Utilities.pdb

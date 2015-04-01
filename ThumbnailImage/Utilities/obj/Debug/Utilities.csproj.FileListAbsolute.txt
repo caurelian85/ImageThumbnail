@@ -1,0 +1,5 @@
+C:\Users\AurasH\Documents\Visual Studio 2013\Projects\ThumbnailImage\Utilities\bin\Debug\Utilities.dll
+C:\Users\AurasH\Documents\Visual Studio 2013\Projects\ThumbnailImage\Utilities\bin\Debug\Utilities.pdb
+C:\Users\AurasH\Documents\Visual Studio 2013\Projects\ThumbnailImage\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\AurasH\Documents\Visual Studio 2013\Projects\ThumbnailImage\Utilities\obj\Debug\Utilities.dll
+C:\Users\AurasH\Documents\Visual Studio 2013\Projects\ThumbnailImage\Utilities\obj\Debug\Utilities.pdb
